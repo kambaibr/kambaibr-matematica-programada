@@ -1,0 +1,2 @@
+# Matem-tica-com-Python
+Matemática com Python é um projeto pensado para ensinar estudantes (principalmente do Ensino Médio) matemática de forma simples, usando como base a linguagem Python. Muitos alunos possuem dificuldade de aprender matemática por não compreender o raciocínio lógico por trás dela. A premissa é entender a lógica matemática, e assim, criar scripts que solucione problemas matemáticos. O material é totalmente didático e de fácil entendimento.
